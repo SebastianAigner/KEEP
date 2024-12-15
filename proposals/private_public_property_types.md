@@ -3,8 +3,7 @@
 * **Type**: Design proposal
 * **Author**: Matej Drobnič, but I'm basically just compiling the discussion into KEEP proposal
 * **Contributors**: Svetlana Isakova, Kirill Rakhman, Dmitry Petrov, Roman Elizarov, Ben Leggiero
-* **Status**: Under consideration
-* **Prototype**: Not Started
+* **Status**: Superseded by [KEEP-278](https://github.com/Kotlin/KEEP/issues/278)
 
 Original discussion of this proposal is held in [in this issue](https://youtrack.jetbrains.com/issue/KT-14663).
 
